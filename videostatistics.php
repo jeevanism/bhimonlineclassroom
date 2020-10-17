@@ -126,39 +126,12 @@ foreach ($vids as $v){
 		  <tr>
       <th scope="row"><?php echo  $q;?></th>
        <td><i class="fa fa-user-circle-o" aria-hidden="true"></i> <a href="<?php echo $teachervideoslink.$nameoff;?>"><?php echo $nameoff;?></a></td>  
-      <td><i class="fa fa-youtube" aria-hidden="true"></i>  <?php echo $nofvid;?> </td>
-         
-     
-    </tr>
-		<?php $q++;} 
-	
-	
+      <td><i class="fa fa-youtube" aria-hidden="true"></i>  <?php echo $nofvid;?> </td>        
+     </tr>
+		<?php $q++;}
 	?>
-	 
-  
-   
- 
   </tbody>
 </table>
-		</div></div> 
-                
- 
-				 
-              
-              
-               
-              
-	 		 
-	 
-		 </div>
-		 
-		 
-				
-				
-			
- 
-
-</section>
-
-
-<?php include('./_foot.php'); // include footer markup ?>
+</div></div>
+</div>
+</section><?php include('./_foot.php'); // include footer markup ?>
