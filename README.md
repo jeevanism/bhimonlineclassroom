@@ -1,5 +1,5 @@
 # BHIMONLINECLASSROOM.IN 
-BHIMONLINECLASSROOM.IN IS A PROJECT INITIATED BY RIGHTS TITLED ‘ONLINE CLASS ROOM AND PUBLIC REPOSITORY OF EDUCATIONAL CONTENTS AND MULTIMEDIA CLASS ROOMS FOR ENABLING ACCESS TO NON DIGITAL STUDENTS FROM THE MARGINALIZED BACKGROUND’.
+bhimonlineclassroom.in is a project initiated by Righst NGO titled ‘online class room and public repository of educational contents and multimedia class rooms for enabling access to non digital students from the marginalized background’.
 
 This folder contains the important PHP files to build the live website project : https://www.bhimonlineclassroom.in/ .
 BootStrap 4 is used as the CSS framework. This project is built on ProcessWire CMS (https://processwire.com). CSS files and Core ProcessWire files are not included in the folder.
