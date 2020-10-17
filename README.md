@@ -3,6 +3,7 @@ BHIMONLINECLASSROOM.IN IS A PROJECT INITIATED BY RIGHTS TITLED ‘ONLINE CLASS R
 
 This folder contains the important PHP files to build the live website project : https://www.bhimonlineclassroom.in/
 . BootStrap 4 is used as the CSS framework.This project is built on ProcessWire CMS (https://processwire.com). CSS files and Core ProcessWire files are not included in the folder.
+
 Description : The website has a frontend that students can watch educational videos by Subject => Standard => Medium => Chapter => Videos => Single Video
 It also has a  backend to add/manage youtube video URL, subjects, chapters
 
