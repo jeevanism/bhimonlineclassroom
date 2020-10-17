@@ -10,7 +10,7 @@ It also has a  admin/backend to add/manage youtube video URL, subjects, chapters
     • file name : singlevideo.php // Display a Single Video page  
     • file name : vids.php // To display the list of Video Classes
     • file name : nofvideos.php //   Number of Total Videos
-    • file name : videostatistics.php // To diplsay statistics ( total video classes, teachers, date, hits etc)
+    • file name : videostatistics.php // To display statistics ( total video classes, teachers, date, hits etc)
     • file name : teachervideos.php //  To display the list of Video Classes w.r.t teacher / tutor
     • file name : _head.php //  header contents
     • file name : _foot.php // Footer contents    
