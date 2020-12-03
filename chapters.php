@@ -16,7 +16,9 @@ $med = $input->get('med'); // retrieve  GET value for  Medium
 $med = $sanitizer->text($med); // sanitize input as 1-line text
 $med =$sanitizer->entities($med); // sanitize for output
 $sub=$input->get('sub'); // GET subject value
+$sub=$sanitizer->text($sub);
 $cl=$input->get('cl'); // GET class value 
+$cl=$sanitizer->text($cl);
 $previousPageLink = $classesListPageLink.'?med='.$med.'&sub='.$sub.'&cl='.$cl;  // previous Page link created
 
 /**
