@@ -1,7 +1,7 @@
 # BHIMONLINECLASSROOM.IN 
 
-BHIMONLINECLASSROOM.IN IS A PROJECT INITIATED BY RIGHTS TITLED ‘ONLINE CLASS ROOM AND PUBLIC REPOSITORY OF EDUCATIONAL CONTENTS AND MULTIMEDIA CLASS ROOMS FOR ENABLING ACCESS TO NON DIGITAL STUDENTS FROM THE MARGINALIZED BACKGROUND’.
+BHIMONLINECLASSROOM.IN IS A PROJECT INITIATED BY RIGHTS TITLED ‘ONLINE CLASS ROOM AND PUBLIC REPOSITORY OF EDUCATIONAL CONTENTS AND MULTIMEDIA CLASS ROOMS FOR ENABLING ACCESS TO NON DIGITAL STUDENTS FROM THE MARGINALISED BACKGROUND’.
  
-The core components of the project files are open-sourced for any one to extend and make use of but only the Design/ArtWork,Multimedia Contents are owned by Rights and their associates.
+The core components of this project are open-sourced for any one to extend and make use of but only the Design/Art Work, Multimedia Contents are owned by Rights and their associates.
 
-The project is live at the moment, but a demo is available. 
+The project is not live at the moment, but a [demo](https://jeevanism.com/bhimon/) is available. 
