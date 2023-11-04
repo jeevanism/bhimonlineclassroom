@@ -1,4 +1,4 @@
-# DEMO Link : BHIMONLINECLASSROOM.IN 
+### The project is not live at the moment, but a [demo](https://jeevanism.com/bhimon/) is available. 
 
 The project is no more live but a demo link is available on the link above
 
@@ -16,5 +16,5 @@ The project is no more live but a demo link is available on the link above
  - PHP 7 +
 
 
-The project is not live at the moment, but a [demo](https://jeevanism.com/bhimon/) is available. 
+
 ![enter image description here](https://raw.githubusercontent.com/jeevanism/bhimonlineclassroom/main/photo_2021-10-04_16-07-43.jpg)
