@@ -1,13 +1,6 @@
-# BHIMONLINECLASSROOM.IN 
+# DEMO Link : BHIMONLINECLASSROOM.IN 
 
-> BHIMONLINECLASSROOM.IN IS A PROJECT INITIATED BY
-> [RIGHTS](https://rights.asia/) TITLED ‘ONLINE CLASS ROOM AND PUBLIC
-> REPOSITORY OF EDUCATIONAL CONTENTS AND MULTIMEDIA CLASS ROOMS FOR
-> ENABLING ACCESS TO NON DIGITAL STUDENTS FROM THE MARGINALISED
-> BACKGROUND’.
-
- 
-*The core components of this project are open-sourced for any one to extend and make use of but only the Design/Art Work, Multimedia Contents are owned by [Rights](https://rights.asia/) and their associates.*
+The project is no more live but a demo link is available on the link above
 
 **Features :**
 
