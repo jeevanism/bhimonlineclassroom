@@ -1,6 +1,8 @@
 ### The project is not live at the moment, but a [demo](https://jeevanism.com/bhimon/) is available. 
 
 
+An education portal built for school students in Kerala, India.
+
 **Features :**
 
  - Subject wise learning contents
