@@ -1,6 +1,5 @@
 ### The project is not live at the moment, but a [demo](https://jeevanism.com/bhimon/) is available. 
 
-The project is no more live but a demo link is available on the link above
 
 **Features :**
 
